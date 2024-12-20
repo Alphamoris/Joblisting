@@ -4,14 +4,14 @@
   <img src="demo/banner.png" alt="Job Board Banner" width="100%"/>
   
   <p align="center">
-    <a href="https://github.com/alphamoris/joblisting">
-      <img src="https://img.shields.io/github/stars/yourusername/job-board?style=for-the-badge" alt="GitHub stars"/>
+    <a href="https://github.com/alphamoris/joblisting/stargazers">
+      <img src="https://img.shields.io/github/stars/alphamoris/joblisting?style=for-the-badge" alt="GitHub stars"/>
     </a>
-    <a href="https://github.com/yourusername/job-board/network/members">
-      <img src="https://img.shields.io/github/forks/yourusername/job-board?style=for-the-badge" alt="GitHub forks"/>
+    <a href="https://github.com/alphamoris/joblisting/network/members">
+      <img src="https://img.shields.io/github/forks/alphamoris/joblisting?style=for-the-badge" alt="GitHub forks"/>
     </a>
-    <a href="https://github.com/yourusername/job-board/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/job-board?style=for-the-badge" alt="GitHub issues"/>
+    <a href="https://github.com/alphamoris/joblisting/issues">
+      <img src="https://img.shields.io/github/issues/alphamoris/joblisting?style=for-the-badge" alt="GitHub issues"/>
     </a>
   </p>
 
