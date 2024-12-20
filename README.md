@@ -37,7 +37,7 @@
 <div align="center">
   <details>
     <summary>🖼️ Click to view screenshots</summary>
-    <img src="https://github.com/Alphamoris/Joblisting/tree/main/memo/screenshot1.png" alt="Home Page" width="100%"/>
+    <img src="./memo/screenshot1.png" alt="Home Page" width="100%"/>
     <p><em>Home Page with Advanced Search and Filtering</em></p>
     <br/>
     <img src="https://github.com/Alphamoris/Joblisting/tree/main/memo/screenshot2.png" alt="Job Details" width="100%"/>
