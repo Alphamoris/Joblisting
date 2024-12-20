@@ -4,7 +4,7 @@
   <img src="demo/banner.png" alt="Job Board Banner" width="100%"/>
   
   <p align="center">
-    <a href="https://github.com/yourusername/job-board/stargazers">
+    <a href="https://github.com/alphamoris/joblisting">
       <img src="https://img.shields.io/github/stars/yourusername/job-board?style=for-the-badge" alt="GitHub stars"/>
     </a>
     <a href="https://github.com/yourusername/job-board/network/members">
