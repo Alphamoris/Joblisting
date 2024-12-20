@@ -37,13 +37,13 @@
 <div align="center">
   <details>
     <summary>🖼️ Click to view screenshots</summary>
-    <img src="memo/screenshot1.png" alt="Home Page" width="100%"/>
+    <img src="https://github.com/Alphamoris/Joblisting/tree/main/memo/screenshot1.png" alt="Home Page" width="100%"/>
     <p><em>Home Page with Advanced Search and Filtering</em></p>
     <br/>
-    <img src="memo/screenshot2.png" alt="Job Details" width="100%"/>
+    <img src="https://github.com/Alphamoris/Joblisting/tree/main/memo/screenshot2.png" alt="Job Details" width="100%"/>
     <p><em>Detailed Job View with Skills and Application</em></p>
     <br/>
-    <img src="memo/screenshot3.png" alt="Search Results" width="100%"/>
+    <img src="https://github.com/Alphamoris/Joblisting/tree/main/memo/screenshot3.png" alt="Search Results" width="100%"/>
     <p><em>Search Results with Real-time Filtering</em></p>
   </details>
 </div>
