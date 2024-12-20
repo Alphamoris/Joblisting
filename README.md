@@ -37,7 +37,7 @@
 <div align="center">
   <details>
     <summary>🖼️ Click to view screenshots</summary>
-    <img src="demo/screenshot1.png" alt="Home Page" width="100%"/>
+    <img src="[https://drive.google.com/file/d/15x4r51EbfT3o6lbrMJA05ambT1A5lNjm/view?usp=sharing]" alt="Home Page" width="100%"/>
     <p><em>Home Page with Advanced Search and Filtering</em></p>
     <br/>
     <img src="demo/screenshot2.png" alt="Job Details" width="100%"/>
