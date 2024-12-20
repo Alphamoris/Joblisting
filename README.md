@@ -30,7 +30,7 @@
 
 ## 🎥 Demo
 
-https://github.com/yourusername/job-board/assets/demo/demo.mp4
+[https://drive.google.com/file/d/1yHwwJOyTrk9R8iyCIwE__DuPFn-x2APj/view?usp=sharing.mp4]
 
 ## 📸 Screenshots
 
